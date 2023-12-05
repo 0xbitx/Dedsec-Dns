@@ -9,7 +9,7 @@ Use this powerful tool to spoof DNS responses and redirect traffic to any IP add
 ```
 git clone https://github.com/0xbitx/Dedsec-Dns.git
 cd Dedsec-Dns
-sudo python3 dedsec-dns.py 
+sudo ./dedsec-dns
 ```
 
 ```
